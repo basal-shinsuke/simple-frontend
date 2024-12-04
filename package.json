@@ -1,0 +1,7 @@
+{
+  "name": "simple-frontend",
+  "scripts": {
+    "build": "echo #####BUILD#####"
+  },
+  "packageManager": "yarn@4.1.1"
+}
